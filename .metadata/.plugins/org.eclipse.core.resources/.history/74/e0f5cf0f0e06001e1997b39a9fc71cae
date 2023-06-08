@@ -1,0 +1,5 @@
+package com.danielcristianoti.controller.Excepetion;
+
+public class ControllerException {
+
+}

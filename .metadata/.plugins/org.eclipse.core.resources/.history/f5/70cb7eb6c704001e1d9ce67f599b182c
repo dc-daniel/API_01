@@ -1,0 +1,13 @@
+package com.danielcristianoti;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ApiDc23Application {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ApiDc23Application.class, args);
+	}
+
+}

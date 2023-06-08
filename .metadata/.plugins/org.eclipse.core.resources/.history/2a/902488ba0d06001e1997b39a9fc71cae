@@ -1,0 +1,23 @@
+package com.danielcristianoti.controller.Excepetion;
+
+public class Error {
+	
+	private Integer status;
+	private Long timestamp;
+	private String message;
+	
+	public Error() {
+		super();
+	}
+
+	public Error(Integer status, Long timestamp, String message) {
+		super();
+		this.status = status;
+		this.timestamp = timestamp;
+		this.message = message;
+	}
+  
+	
+	
+	
+}

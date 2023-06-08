@@ -1,0 +1,9 @@
+package com.danielcristianoti.services;
+
+
+@Serviced
+public class UsuarioService {
+	
+	
+
+}

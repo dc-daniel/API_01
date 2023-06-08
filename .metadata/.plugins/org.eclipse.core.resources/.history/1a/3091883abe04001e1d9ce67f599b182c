@@ -1,0 +1,5 @@
+package com.danielcristianoti.domain;
+
+public class Usuario {
+
+}

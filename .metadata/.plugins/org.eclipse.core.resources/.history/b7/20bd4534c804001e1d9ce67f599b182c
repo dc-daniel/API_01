@@ -1,0 +1,5 @@
+package com.danielcristianoti.repositories;
+
+public class UsuarioRepository {
+
+}
